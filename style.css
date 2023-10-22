@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 1em;
+    text-align: justify;
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
